@@ -1,7 +1,6 @@
 import cytoscape, { Core } from "cytoscape";
 import dagre from "cytoscape-dagre";
 import { useEffect, useRef } from "react";
-import { styled } from "tonami";
 import { parseText } from "./parse";
 
 const nodeHtmlLabel = require("cytoscape-node-html-label");
