@@ -162,11 +162,3 @@ const style = [
     },
   },
 ];
-
-const DownloadButton = styled.button({
-  position: "fixed",
-  bottom: 0,
-  right: 0,
-  margin: "1em",
-  zIndex: 100,
-});
